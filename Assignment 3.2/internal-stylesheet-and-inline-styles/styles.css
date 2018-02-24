@@ -1,0 +1,12 @@
+
+.container-fluid {
+ 	padding-top: 15px;
+ }
+
+ .homepage-1 h1 {
+    font-size: 30px;
+    color: blue;
+    margin-top: 15px;
+    margin-left: 10px;
+    font-family: -webkit-pictograph;
+}
